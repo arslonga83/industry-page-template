@@ -6,9 +6,13 @@
 
 body {
   font-family: 'Nunito', sans-serif;
-  padding-top: 56px;
+  padding-top: 65px;
 }
 
 .cta-section {
   background: url('../assets/cta.jpg') fixed;
+}
+
+.nav-link.active {
+  color: red !important 
 }
